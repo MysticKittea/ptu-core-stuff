@@ -1,0 +1,146 @@
+{
+  "id": "core-ptu-stuff",
+  "title": "Core PTU Stuff",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Core PTU features, edges, abilities, species, items, and all that jazz.</p>",
+  "authors": [
+    {
+      "name": "MysticKittea",
+      "email": "mist9730@gmail.com",
+      "url": "https://github.com/MysticKittea",
+      "discord": "mystickittea",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/MysticKittea/Core-PTU-Stuff",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "poke-edges",
+      "label": "Poke-Edges",
+      "path": "packs/poke-edges",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pokemon-species",
+      "label": "Pokemon Species",
+      "path": "packs/pokemon-species",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "class-and-general-features",
+      "label": "Class & General Features",
+      "path": "packs/class-and-general-features",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "edges",
+      "label": "Edges",
+      "path": "packs/edges",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "weapon-moves",
+      "label": "Weapon Moves",
+      "path": "packs/weapon-moves",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "abilities",
+      "label": "Abilites",
+      "path": "packs/abilities",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "capabilities",
+      "label": "Capabilities",
+      "path": "packs/capabilities",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "moves",
+      "label": "Moves",
+      "path": "packs/moves",
+      "type": "Item",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dowsing-and-foraging",
+      "label": "Dowsing & Foraging",
+      "path": "packs/dowsing-and-foraging",
+      "type": "RollTable",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "habitats",
+      "label": "Habitats",
+      "path": "packs/habitats",
+      "type": "RollTable",
+      "system": "ptu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
